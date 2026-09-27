@@ -1,0 +1,15 @@
+{
+  "name": "simple-web-app-deployment",
+  "version": "1.0.0",
+  "description": "A small deployment environment for a simple web app.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
